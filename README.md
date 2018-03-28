@@ -1,8 +1,5 @@
 # Video background
 
-## Link
-
-
 ## Task
 * You need to create a page with a video on the background. 
 * The page has to be 100% in height and 100% in width.
